@@ -1,0 +1,2 @@
+http://lslwww.epfl.ch/pages/teaching/cours_lsl/ca_es/VGA.pdf - vga signal stuff
+http://www.javiervalcarce.eu/wiki/VGA_Video_Signal_Format_and_Timing_Specifications - vga signal stuff
