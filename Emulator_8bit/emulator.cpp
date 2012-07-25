@@ -64,5 +64,7 @@ int main()
 {
 	Core core;
 	core.SetRom();
+	
+	for(int i = 0; i < 
 	return 0;
 }
