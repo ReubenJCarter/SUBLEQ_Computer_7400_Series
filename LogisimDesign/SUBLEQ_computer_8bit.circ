@@ -1081,6 +1081,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(730,400)" to="(790,400)"/>
     <wire from="(680,340)" to="(790,340)"/>
     <wire from="(760,260)" to="(760,310)"/>
+    <wire from="(470,520)" to="(570,520)"/>
     <wire from="(730,410)" to="(780,410)"/>
     <wire from="(660,450)" to="(670,450)"/>
     <wire from="(730,760)" to="(740,760)"/>
@@ -1105,6 +1106,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(780,240)" to="(780,330)"/>
     <wire from="(730,440)" to="(750,440)"/>
     <wire from="(680,740)" to="(700,740)"/>
+    <wire from="(470,530)" to="(570,530)"/>
     <wire from="(660,470)" to="(780,470)"/>
     <wire from="(670,410)" to="(700,410)"/>
     <wire from="(550,230)" to="(700,230)"/>
@@ -1124,6 +1126,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(730,430)" to="(740,430)"/>
     <wire from="(730,770)" to="(740,770)"/>
     <wire from="(780,700)" to="(780,780)"/>
+    <wire from="(470,540)" to="(570,540)"/>
     <wire from="(690,750)" to="(700,750)"/>
     <wire from="(680,430)" to="(700,430)"/>
     <wire from="(640,630)" to="(700,630)"/>
@@ -1160,8 +1163,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp loc="(730,580)" name="7432(QuadOR)"/>
     <comp loc="(730,730)" name="7432(QuadOR)"/>
+    <comp loc="(470,510)" name="7408(QuadAND)"/>
     <comp loc="(470,650)" name="7404(HexInverter)"/>
-    <comp loc="(470,540)" name="7408(QuadAND)"/>
     <comp loc="(730,390)" name="7432(QuadOR)"/>
     <comp lib="0" loc="(900,240)" name="Pin">
       <a name="facing" val="west"/>
